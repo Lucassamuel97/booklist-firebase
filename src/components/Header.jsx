@@ -30,7 +30,7 @@ function Header({ pageTitle }) {
 
         <NavLink to="/">
           <button className="btn">
-            Books teste deploy
+            Books
           </button>
         </NavLink>
 
